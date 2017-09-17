@@ -1,0 +1,386 @@
+[
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/eastasia",
+    "centre_code": "eastasia",
+    "centre_name": "East Asia",
+    "location": [114.188, 22.267],
+    "load_rating": 1,
+    "rating": 1
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/southeastasia",
+    "centre_code": "southeastasia",
+    "centre_name": "Southeast Asia",
+    "location": [103.833, 1.283],
+    "load_rating": 2,
+    "rating": 2
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/centralus",
+    "centre_code": "centralus",
+    "centre_name": "Central US",
+    "location": [-93.6208, 41.5908],
+    "load_rating": 3,
+    "rating": 3
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/eastus",
+    "centre_code": "eastus",
+    "centre_name": "East US",
+    "location": [-79.8164, 37.3719],
+    "load_rating": 4,
+    "rating": 4
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/eastus2",
+    "centre_code": "eastus2",
+    "centre_name": "East US 2",
+    "location": [-78.3889, 36.6681],
+    "load_rating": 5,
+    "rating": 5
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/westus",
+    "centre_code": "westus",
+    "centre_name": "West US",
+    "location": [-122.417, 37.783],
+    "load_rating": 6,
+    "rating": 6
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/northcentralus",
+    "centre_code": "northcentralus",
+    "centre_name": "North Central US",
+    "location": [-87.6278, 41.8819],
+    "load_rating": 7,
+    "rating": 7
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/southcentralus",
+    "centre_code": "southcentralus",
+    "centre_name": "South Central US",
+    "location": [-98.5, 29.4167],
+    "load_rating": 8,
+    "rating": 8
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/northeurope",
+    "centre_code": "northeurope",
+    "centre_name": "North Europe",
+    "location": [-6.2597, 53.3478],
+    "load_rating": 9,
+    "rating": 9
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/westeurope",
+    "centre_code": "westeurope",
+    "centre_name": "West Europe",
+    "location": [4.9, 52.3667],
+    "load_rating": 10,
+    "rating": 10
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/japanwest",
+    "centre_code": "japanwest",
+    "centre_name": "Japan West",
+    "location": [135.5022, 34.6939],
+    "load_rating": 11,
+    "rating": 11
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/japaneast",
+    "centre_code": "japaneast",
+    "centre_name": "Japan East",
+    "location": [139.77, 35.68],
+    "load_rating": 12,
+    "rating": 12
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/brazilsouth",
+    "centre_code": "brazilsouth",
+    "centre_name": "Brazil South",
+    "location": [-46.633, -23.55],
+    "load_rating": 13,
+    "rating": 13
+  },
+  
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/southindia",
+    "centre_code": "southindia",
+    "centre_name": "South India",
+    "location": [80.1636, 12.9822],
+    "load_rating": 16,
+    "rating": 16
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/centralindia",
+    "centre_code": "centralindia",
+    "centre_name": "Central India",
+    "location": [73.9197, 18.5822],
+    "load_rating": 17,
+    "rating": 17
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/westindia",
+    "centre_code": "westindia",
+    "centre_name": "West India",
+    "location": [72.868, 19.088],
+    "load_rating": 18,
+    "rating": 18
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/canadacentral",
+    "centre_code": "canadacentral",
+    "centre_name": "Canada Central",
+    "location": [-79.383, 43.653],
+    "load_rating": 19,
+    "rating": 19
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/canadaeast",
+    "centre_code": "canadaeast",
+    "centre_name": "Canada East",
+    "location": [-71.217, 46.817],
+    "load_rating": 20,
+    "rating": 20
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/uksouth",
+    "centre_code": "uksouth",
+    "centre_name": "UK South",
+    "location": [-0.799, 50.941],
+    "load_rating": 21,
+    "rating": 21
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/ukwest",
+    "centre_code": "ukwest",
+    "centre_name": "UK West",
+    "location": [-3.084, 53.427],
+    "load_rating": 22,
+    "rating": 22
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/westcentralus",
+    "centre_code": "westcentralus",
+    "centre_name": "West Central US",
+    "location": [-110.234, 40.89],
+    "load_rating": 23,
+    "rating": 23
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/westus2",
+    "centre_code": "westus2",
+    "centre_name": "West US 2",
+    "location": [-119.852, 47.233],
+    "load_rating": 24,
+    "rating": 24
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/koreacentral",
+    "centre_code": "koreacentral",
+    "centre_name": "Korea Central",
+    "location": [126.978, 37.5665],
+    "load_rating": 25,
+    "rating": 25
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/koreasouth",
+    "centre_code": "koreasouth",
+    "centre_name": "Korea South",
+    "location": [129.0756, 35.1796],
+    "load_rating": 26,
+    "rating": 26
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/usgoviowa",
+    "centre_code": "usgoviowa",
+    "centre_name": "US Gov Iowa",
+    "location": [-91.530167, 41.661129],
+    "load_rating": 27,
+    "rating": 27
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/usgovarizona",
+    "centre_code": "usgovarizona",
+    "centre_name": "US Gov Arizona",
+    "location": [110.89, 32.21],
+    "load_rating": 28,
+    "rating": 28
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/usgovtexas",
+    "centre_code": "usgovtexas",
+    "centre_name": "US Gov Texas",
+    "location": [99.9018, 31.9686],
+    "load_rating": 29,
+    "rating": 29
+  },
+
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/usgovvirginia",
+    "centre_code": "usgovvirginia",
+    "centre_name": "US Gov Virginia",
+    "location": [78.6569, 37.4316],
+    "load_rating": 30,
+    "rating": 30
+  },
+
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/france central",
+    "centre_code": "france central",
+    "centre_name": "France Central",
+    "location": [2.349, 48.8647],
+    "load_rating": 31,
+    "rating": 31
+  },
+
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/france south",
+    "centre_code": "france south",
+    "centre_name": "France South",
+    "location": [7.262, 43.7102],
+    "load_rating": 32,
+    "rating": 32
+  },
+
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/germanynortheast",
+    "centre_code": "germany northeast",
+    "centre_name": "Germany Northeast",
+    "location": [9.9937, 53.5511],
+    "load_rating": 33,
+    "rating": 33
+  },
+
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/francesouth",
+    "centre_code": "france south 2",
+    "centre_name": "France South 2",
+    "location": [8.262, 42.7102],
+    "load_rating": 34,
+    "rating": 34
+  },
+
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/germanycentral",
+    "centre_code": "germanycentral",
+    "centre_name": "Germany Central",
+    "location": [12.0128, 51.0647],
+    "load_rating": 35,
+    "rating": 35
+  },
+
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/south africa north ",
+    "centre_code": "south africa north",
+    "centre_name": "South Africa North",
+    "location": [28.0473, 26.2041],
+    "load_rating": 36,
+    "rating": 36
+  },
+
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/southafricawest",
+    "centre_code": "southafricawest",
+    "centre_name": "South Africa West",
+    "location": [18.4241, 33.9249],
+    "load_rating": 37,
+    "rating": 37
+  },
+
+ 
+
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/chinaeast",
+    "centre_code": "chinaeast",
+    "centre_name": "China East",
+    "location": [121.4737, 31.2304],
+    "load_rating": 40,
+    "rating": 40
+  },
+
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/chinanorth",
+    "centre_code": "chinanorth",
+    "centre_name": "China North",
+    "location": [116.363625, 39.9138],
+    "load_rating": 41,
+    "rating": 41
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/australiaeast",
+    "centre_code": "australiaeast",
+    "centre_name": "Australia East",
+    "location": [151.2094, -33.86],
+    "load_rating": 10,
+    "rating": 10
+  },
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/australiasoutheast",
+    "centre_code": "australiasoutheast",
+    "centre_name": "Australia Southeast",
+    "location": [144.9631, -37.8136],
+    "load_rating": 15,
+    "rating": 15
+  },
+  
+   {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/australiacentral",
+    "centre_code": "australiacentral",
+    "centre_name": "Australia Central",
+    "location": [142.9631, -38.8136],   
+    "load_rating": 20, 
+    "rating": 20
+  },
+
+  {
+    "ref_id":
+      "/subscriptions/41850220-19f0-49c6-87ea-766c9b0da1f1/locations/australiacentral2",
+    "centre_code": "australiacentral2",
+    "centre_name": "Australia Central 2",
+    "location": [141.9631, -39.8136],
+    "load_rating": 30,
+    "rating": 30
+  }
+]

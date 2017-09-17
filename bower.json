@@ -1,0 +1,26 @@
+{
+  "name": "AzureMeanMap",
+  "description": "MEAN stack based Map application",
+  "main": "server.js",
+  "authors": [
+    "nitish-mehta <nitishmehta.nm@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "1.4.6",
+    "angularjs-geolocation": "0.1.1",
+    "bootstrap": "3.3.5",
+    "bower": "*",
+    "install": "^1.0.4",
+    "modernizr": "3.0.0"
+  }
+}

@@ -1,0 +1,58 @@
+﻿<!doctype html>
+<!-- Declares meanMapApp as the starting Angular module -->
+<html class="no-js" ng-app="meanMapApp">
+<head>
+    <meta charset="utf-8">
+    <title>Azure Data Centre Map</title>
+    <meta name="description" content="Azure Mean App">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSS -->
+    <link rel="stylesheet" href="../bower_components/bootstrap/dist/css/bootstrap.css"/>
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="icon" href="titlelogo.png">
+    <!-- Bing Maps API -->
+    <script charset="UTF-8" type="text/javascript" src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0"></script>
+    <!-- Modernizr -->
+    <script src="../bower_components/modernizr/bin/modernizr"></script>
+    <!-- JS Source -->
+    <script src="../bower_components/jquery/jquery.js"></script>
+    <script src="../bower_components/angular/angular.js"></script>
+    <script src="../bower_components/angular-route/angular-route.js"></script>
+    <script src="../bower_components/angularjs-geolocation/dist/angularjs-geolocation.min.js"></script>
+
+
+    <!-- Angular Scripts -->
+    <script src="js/app.js"></script>
+    <script src="js/checkAll.js"></script>
+    <script src="js/queryCtrl.js"></script>    
+    <script src="js/gservice.js"></script>
+
+</head>
+<body ng-controller="checkAll">
+<div class="container">
+    <div class="header">
+        <ul class="nav nav-pills pull-right">
+            <li active><a href="/#/all">SHOW ALL CENTERS</a></li>
+            <li disabled><a href="/#/find">FIND ONE</a></li>
+        </ul>
+				<p>
+       <img src = "Picture1.png"/>
+       </p>
+        <h3 class="text-muted">Azure Data Centres</h3>
+    </div>
+<div class="row content">
+    <!-- Bing Map -->
+    <div class="col-md-7">
+        <div id="map" style="height:645px"></div>
+    </div>
+    <!-- Load view based on route -->
+     <div ng-view></div>
+</div>
+    <hr/>
+    <!-- Footer -->
+    <div class="footer">
+        <p class="text-center"><span class="glyphicon glyphicon-check"></span> Azure Data Centre Map based on MEAN stack</p>
+    </div>
+</div>
+</body>
+</html>
